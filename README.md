@@ -21,4 +21,4 @@
 4. `[Propose file change]` 버튼을 클릭하세요.
 5. `[Create pull request]` 버튼을 클릭하세요.
 6. `[Create pull request]` 버튼을 한 번 더 클릭하세요.
-7. 커뮤니티 관리자의 `Merge`를 기다려 주세요. `Merge`가 되어야 수정 내역이 본 문서에 반영되고 `controbutors`로 등록됩니다.
+7. 커뮤니티 관리자의 `Merge`를 기다려 주세요. `Merge`가 되어야 수정 내역이 본 문서에 반영되고 `contributors`로 등록됩니다.
