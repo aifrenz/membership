@@ -23,3 +23,5 @@
 5. `[Create pull request]` 버튼을 클릭하세요.
 6. `[Create pull request]` 버튼을 한 번 더 클릭하세요.
 7. 커뮤니티 관리자의 `Merge`를 기다려 주세요. `Merge`가 되어야 수정 내역이 본 문서에 반영되고 `contributors`로 등록됩니다.
+
+- 멤버쉽 신청 과정을 캡처하여 정리한 [파일](https://github.com/aifrenz/membership/blob/master/doc/membership_guide.pdf)을 참고하세요.
