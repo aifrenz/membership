@@ -20,6 +20,7 @@
 |최우성|KEPRI|지극히 얕고 넓은, 함께 있으면 좋은 사람 |무도 탐구|
 |박진균|KAERI|한번에 두가지 일은 못합니다|영화, 멍때리기, 운동|
 |박은정|KASI|코딩 약한 인공지능 애호가|문화콘텐츠 스토리텔링|
+
 ## 멤버쉽 신청 방법
 
 1. [https://github.com/aifrenz/membership](https://github.com/aifrenz/membership) 접속 후 `README.md` 파일을 클릭하세요.
