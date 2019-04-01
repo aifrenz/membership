@@ -23,6 +23,8 @@
 |손영성|ETRI|기술이 인간의 삶을 윤택하게 만든다고 믿고 실천하는 공돌이 |독서, 상상|
 |최예지|KISTI|한번 시작하면 끝까지는 가보고싶은...|여행, 하늘보기, 독서|
 |전태균|[SI Analytics](https://www.si-analytics.ai)|AI+위성|육아, 출근, 모든 공놀이|
+|최진혁|Inforience|demon, human hacks|몸을 날려서 아무것도 하지 않기|
+
 
 ## 멤버쉽 신청 방법
 
