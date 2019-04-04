@@ -32,7 +32,7 @@
 |이국화|KISTI|영원히 살것처럼 배우고 싶은 1인. (클라우드+AI)|여행, 독서, 사람|
 |이영준|NSHC|그것이 알고싶다.. AI|운동, 여행, 옥상 달빛|
 |박선례|TTA|인공지능으로 우리는 무엇을 할수 있을까? 궁금해하는 사람||
-
+|김의광|KAERI|인공지능이 궁금| 현악기제작|
 ## 멤버쉽 신청 방법
 
 1. [https://github.com/aifrenz/membership](https://github.com/aifrenz/membership) 접속 후 `README.md` 파일을 클릭하세요.
