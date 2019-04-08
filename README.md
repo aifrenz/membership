@@ -46,7 +46,11 @@
 |이임평|서울시립대|AI + Drone + Mapping|운동, 영화, 여행|
 |신원선|GWIN|여성과 ICT|멍때리기|
 |허귀석|ReSEAT|대기오염측정, 드론, AI|친구 운동|
+|권지회|KIGAM|동역학해석,AI &ICT|육아, 독서|
+|김윤구|KHNP|AI가 필요한 원자력분야 연구원|여행, 사람, 수다|
+|장한용|한국인식산업|새롭고 재미있는 AI를 공부하는 중|고전음악/재즈듣기|
 |박상준|KAERI|일단 뭐든 해|운동, 영상, 사진|
+
 ## 멤버쉽 신청 방법
 
 1. [https://github.com/aifrenz/membership](https://github.com/aifrenz/membership) 접속 후 `README.md` 파일을 클릭하세요.
