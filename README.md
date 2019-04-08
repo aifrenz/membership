@@ -51,7 +51,7 @@
 |장한용|한국인식산업|새롭고 재미있는 AI를 공부하는 중|고전음악/재즈듣기|
 |박상준|KAERI|일단 뭐든 해|운동, 영상, 사진|
 |사은실|디자인종이씨앗|메이커, Chatbot for old poor lonely (wo)man|몽상,외국어|
-
+|임찬수|GSC|Wanna be AI Innovator|운동|
 
 ## 멤버쉽 신청 방법
 
