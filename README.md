@@ -53,6 +53,8 @@
 |사은실|디자인종이씨앗|메이커, Chatbot for old poor lonely (wo)man|몽상,외국어|
 |임찬수|GSC|Wanna be AI Innovator|운동|
 |윤형중|한국기초과학(연)|AI, 공부하고 응용하고~|낚시, 배드민턴|
+|이성규|APCC|이상한 기후 찾는 똘똘한 녀석 만드는 사람|사색 즐기기|
+
 ## 멤버쉽 신청 방법
 
 1. [https://github.com/aifrenz/membership](https://github.com/aifrenz/membership) 접속 후 `README.md` 파일을 클릭하세요.
