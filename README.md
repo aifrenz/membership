@@ -52,6 +52,7 @@
 |박상준|KAERI|일단 뭐든 해|운동, 영상, 사진|
 |사은실|디자인종이씨앗|메이커, Chatbot for old poor lonely (wo)man|몽상,외국어|
 |임찬수|GSC|Wanna be AI Innovator|운동|
+|금창섭|빅픽처랩| 블록체인과 강화학습|산책|
 
 ## 멤버쉽 신청 방법
 
