@@ -59,7 +59,7 @@
 |김태홍|KIOM|행복하게 건강하게 이루고 싶어요||
 |임헌영|충남대학교|하스스톤 AI를 만드는 그날까지. 통계전공학생|피아노, 리듬게임, 생각|
 |노선영|KAERI|AI 궁금한 1인|재즈 좋아하지만 1도 모르는|
-
+|조혜영|KISTI|가장 멀고 가장 빛나는 길|여행, 하늘/산/나무, 균형, 운동, 독서|
 ## 멤버쉽 신청 방법
 
 1. [https://github.com/aifrenz/membership](https://github.com/aifrenz/membership) 접속 후 `README.md` 파일을 클릭하세요.
