@@ -75,6 +75,7 @@
 |김진석|Hanvitpower|IoT, AI, BigData.. 모든게 궁금한 이|하늘,바다,산,사진,여행|
 |강민규|충북대병원|의학, 내과학, 알레르기학, 약물역학|?|
 |김광련|Hanvitpower|Machine Learning, Deep Learning|다이빙|
+|박원종|Euclidsoft|AI & Bigdata 로 가치있는 삶을 |여행, 전원에서 커피 한잔하며 즐기기|
 
 <!-- 여기에 한 줄 추가해 주세요 -->
 <!-- |이름|소속|프로필|좋아하는 활동| -->
