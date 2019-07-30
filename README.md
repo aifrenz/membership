@@ -87,6 +87,7 @@
 |한덕윤|HP|No Pain, No Gain|나무위키, 네이처 워크, 와인|
 |한인종|NIRS|Deep Learning 재미 & 응용 둘 다 가능할까?|영화, 드라이빙, 산책|
 |김선도|방통대|킵고잉! |JAZZ|
+|방경필|KIA MOTORS|IoT,ML/DL,Ergonomics,AI관심|독서사색,코딩공부,사람연구|
 
 
 <!-- 여기에 한 줄 추가해 주세요 -->
