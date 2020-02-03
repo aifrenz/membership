@@ -116,6 +116,7 @@
 |김용우|KARI|딥러닝 관심 많은 연구원|수영,영화,산책|
 |양현대|A.M.Autonomy|데이터 메이커|잡념이 사라지는 힘든 운동|
 |김태영|AIFactory|=경연대회+AutoML+MLOps|그림그리기|
+|송영우|KAIST|Physics+Biology+CS|행복회로 돌리기|
 
 
 <!-- 위 명단 끝에 한 줄 추가해 주세요 -->
