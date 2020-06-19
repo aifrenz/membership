@@ -177,7 +177,7 @@
 ## 멤버쉽 신청 방법
 
 1. [https://github.com/aifrenz/membership](https://github.com/aifrenz/membership) 접속 후 `README.md` 파일을 클릭하세요.
-2. `README.md` 파일의 편집 버튼을 클릭하세요.
+2. `README.md` 파일의 편집(연필 아이콘) 버튼을 클릭하세요.
 3. 멤버 명단에 자신의 이름과 프로필을 작성하여 한 줄을 추가해 주세요.
 4. `[Propose file change]` 버튼을 클릭하세요.
 5. `[Create pull request]` 버튼을 클릭하세요.
