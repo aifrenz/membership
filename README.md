@@ -216,6 +216,7 @@
 |최성훈|Tomomi Research Inc.|AI Visual Inspection|여행,Prototyping |
 |정재민|Hallym Univ|AI비전, 최적화|헬스, 그림, 영화|
 |김영훈|KISTI|AI,Bioinformatcis|노래,기타,태권도|
+|최창혁|uLikeKorea|연구원|독서, 걷기, 영화|
 
 
 <!-- 명단 아래 끝에 다음과 같이 한 줄 추가해 주세요. -->
