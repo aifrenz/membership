@@ -214,6 +214,7 @@
 |박준호|KAIST|AMP를 이용한 분자동역학|축구|
 |이태희|빵형의 개발도상국|모든 창의적인 것을 좋아합니다!|코딩, 목공, 영화|
 |최성훈|Tomomi Research Inc.|AI Visual Inspection|여행,Prototyping |
+|정재민|Hallym Univ|AI비전, 최적화|헬스, 그림, 영화|
 
 
 <!-- 명단 아래 끝에 다음과 같이 한 줄 추가해 주세요. -->
