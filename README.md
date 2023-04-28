@@ -72,13 +72,10 @@
 |권혁|KAERI|Math+AI+Nuclear |탁구,코딩,수학|
 |이경근|KAERI|재료와 AI와의 결합|캐글, 탁구|
 |조영주|ETRI|재미&실용 둘 다를 위한 AI가 있을까?|농구,영화|
-|장범석|Hanvitpower|인공지능 AI 배우고 싶어요.|운동, 여행|
 |김한조|D4Labs|AI첫출발|테니스|
 |김영모|건양대학교|의공학 - 표준, AI, 의료영상시스템|아마추어무선|
 |전영애|ETRI|호기심쟁이?!|걷기,공상|
-|김진석|Hanvitpower|IoT, AI, BigData.. 모든게 궁금한 이|하늘,바다,산,사진,여행|
 |강민규|충북대병원|의학, 내과학, 알레르기학, 약물역학|?|
-|김광련|Hanvitpower|Machine Learning, Deep Learning|다이빙|
 |심재용|대덕밸리과기협|IoT, 홀로렌즈, 스마트글래스|AI를 친구로 만들기|
 |서현권|A·net(에이넷)|ICT/AI in 농업, 애그테크(AgTech)|독서,걷기,스쿼시|
 |최상현|KARI|고민 많은 행복하고픈 1인|TV, 폰게임, 목욕, 걷기|
@@ -88,7 +85,6 @@
 |장한얼|ETRI|AI+Security|R&B, 노래, 공상|
 |한성근|KISTI|KISTI과학데이터스쿨|RC,드론|
 |이제현|Yeram|AI 알고싶어요|영화|
-|한덕윤|HP|No Pain, No Gain|나무위키, 네이처 워크, 와인|
 |한인종|NIRS|딥러닝 재미&응용 둘 다 가능할까?|영화, 드라이빙, 산책|
 |김선도|방통대|킵고잉! |JAZZ|
 |방경필|KIA MOTORS|IoT,ML/DL,Ergonomics,AI|독서사색,코딩공부,사람연구|
